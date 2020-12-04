@@ -79,7 +79,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
+		background-color: linear-gradient(45deg, #00F260 35%, #0575E6 65%);
 		background-image: linear-gradient(45deg, #00F260 35%, #0575E6 65%);
 	}
 
@@ -95,7 +95,7 @@ input, select, textarea {
 		}
 /* Type */
 	body {
-		background-color: #935d8c;
+		background-color: linear-gradient(45deg, #00F260 35%, #0575E6 65%);
 		color: rgba(255, 255, 255, 0.65);
 	}
 	body, input, select, textarea {
